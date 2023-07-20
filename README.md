@@ -12,3 +12,7 @@ Bring your setup to the modern day with StreamFX! With several super fast filter
 * [Installation Guide](https://github.com/xaymar/obs-streamfx/wiki/Installation)
 
 ---
+https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/
+https://www.nvidia.com/ru-ru/geforce/broadcasting/broadcast-sdk/resources/
+https://mega.nz/folder/s0ETATDL#rjByRyuqmqWsrmzV5J1sRw
+https://www.youtube.com/watch?v=agcIcuGrf88
